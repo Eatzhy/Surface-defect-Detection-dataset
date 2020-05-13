@@ -1,5 +1,5 @@
 # Surface-defect-Detection-dataset
-读研期间遇到的一些缺陷检测的图像，在此做一个表面缺陷数据集汇总，**感谢加星！**也可以从CSDN阅读：https://blog.csdn.net/qq_27871973/article/details/84974231。
+读研期间遇到的一些缺陷检测的图像，在此做一个表面缺陷数据集汇总，**感谢加星！**可从CSDN阅读：https://blog.csdn.net/qq_27871973/article/details/84974231。
 
 **1、德国DAGM 2007的数据集**
 
@@ -119,7 +119,7 @@
 
 ![image-20200512204848591](C:\Users\zhygou\AppData\Roaming\Typora\typora-user-images\image-20200512204848591.png)
 
-**10、MVTec 异常检测数据集 **
+**11、MVTec 异常检测数据集 **
 
 数据网站：http://www.mvtec.com/company/research/datasets
 
