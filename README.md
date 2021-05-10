@@ -40,8 +40,6 @@
 
 ![img](https://img-blog.csdnimg.cn/20181212161012648.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI3ODcxOTcz,size_16,color_FFFFFF,t_70)
 
-![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)
-
 ![img](https://img-blog.csdnimg.cn/20181212161037714.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI3ODcxOTcz,size_16,color_FFFFFF,t_70)
 
 **4、磁瓦缺陷的数据集**
