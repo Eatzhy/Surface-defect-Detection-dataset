@@ -5,7 +5,7 @@
 
 总共十类图像，有训练集和测试集，部分样例如下：
 
-![image-20200512202343103](C:\Users\zhygou\AppData\Roaming\Typora\typora-user-images\image-20200512202343103.png)
+![image](https://user-images.githubusercontent.com/16224205/117602735-fc7fd400-b183-11eb-8681-656342e9811c.png)
 
 数据官方网址：https://hci.iwr.uni-heidelberg.de/node/3616
 
@@ -26,7 +26,7 @@
 
 官方网址：http://faculty.neu.edu.cn/me/songkc/Vision-based_SIS_Steel.html ，数据官方网站中也给出了最近几年使用此数据集发表的paper。部分样例如下：
 
-![image-20200512202749366](C:\Users\zhygou\AppData\Roaming\Typora\typora-user-images\image-20200512202749366.png)
+![image](https://user-images.githubusercontent.com/16224205/117602762-102b3a80-b184-11eb-9d1f-4d5d2fd3efb9.png)
 
 **3、KTH-TIPS database**
 
