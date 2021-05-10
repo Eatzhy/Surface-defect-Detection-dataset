@@ -26,7 +26,7 @@
 
 官方网址：http://faculty.neu.edu.cn/me/songkc/Vision-based_SIS_Steel.html ，数据官方网站中也给出了最近几年使用此数据集发表的paper。部分样例如下：
 
-![image-20200512202749366](C:\Users\zhygou\AppData\Roaming\Typora\typora-user-images\image-20200512202749366.png)
+![image-20200512202749366](pic/image-20200512202749366.png)
 
 **3、KTH-TIPS database**
 
@@ -125,6 +125,6 @@
 
 该数据集包含15个类别的物体和纹理共5K+张彩色图像。15个类别中涵盖了不同类型的规则纹理(地毯，格子)和随机纹理(皮革，瓷砖，木材)。除外还有：瓶子、金属螺母，电缆等。异常样本图像包含多种缺陷，缺陷是手工生成的。所有的图像分辨率都在700×700和1024×1024像素之间。该数据集并给出了ground truth。
 
-![image-20200512205555121](C:\Users\zhygou\AppData\Roaming\Typora\typora-user-images\image-20200512205555121.png)
+![image-20200512205555121](pic/image-20200512205555121.png)
 
-![image-20200512205604667](C:\Users\zhygou\AppData\Roaming\Typora\typora-user-images\image-20200512205604667.png)
+![image-20200512205604667](pic/image-20200512205604667.png)
