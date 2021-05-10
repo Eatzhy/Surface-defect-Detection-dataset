@@ -5,7 +5,7 @@
 
 总共十类图像，有训练集和测试集，部分样例如下：
 
-![image-20200512202343103](C:\Users\zhygou\AppData\Roaming\Typora\typora-user-images\image-20200512202343103.png)
+![image-20200512202343103](pic/image-20200512202343103.png)
 
 数据官方网址：https://hci.iwr.uni-heidelberg.de/node/3616
 
