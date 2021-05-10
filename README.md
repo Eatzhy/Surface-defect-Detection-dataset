@@ -44,15 +44,11 @@
 
 ![img](https://img-blog.csdnimg.cn/20181212161037714.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI3ODcxOTcz,size_16,color_FFFFFF,t_70)
 
-![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)
-
 **4、磁瓦缺陷的数据集**
 
  中科院自动化所一个课题组收集的数据，官方链接登录失败，只能从github链接：https://github.com/abin24/Magnetic-tile-defect-datasets. 该数据集总共包含**1344张图像**，对磁瓦的感兴趣区域 (ROI) 进行了裁剪。共包含6类图片 (5类缺陷，1类正常)。每张图像都做了pixel-level标注。
 
 ![img](https://img-blog.csdnimg.cn/2018121216162780.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI3ODcxOTcz,size_16,color_FFFFFF,t_70)
-
-![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)
 
 **5、铁轨表面缺陷数据集**
 
@@ -62,8 +58,6 @@
 提取码：6p3v 
 
 ![img](https://img-blog.csdnimg.cn/20190320152729767.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI3ODcxOTcz,size_16,color_FFFFFF,t_70)
-
-![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)
 
 **6、土木建筑表面裂纹检测数据**
 
@@ -80,8 +74,6 @@
 部分样例如下：
 
 ![img](https://img-blog.csdnimg.cn/20190320153624428.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI3ODcxOTcz,size_16,color_FFFFFF,t_70)
-
-![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)
 
 7、**铝型材表面瑕疵识别** 
 
@@ -107,8 +99,6 @@
 
 ![img](https://img-blog.csdnimg.cn/2019121121114527.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI3ODcxOTcz,size_16,color_FFFFFF,t_70)
 
-![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)
-
 **10、AITEX数据集**
 
 数据官网：http://www.aitex.es/afid。该数据集包含7种织物图像，分辨率为4096x256。使用的时候可以自己裁剪成256x256大小。数据集提供了像素级标注。
@@ -119,7 +109,7 @@
 
 ![image-20200512204848591](pic/image-20200512204848591.png)
 
-**11、MVTec 异常检测数据集 **
+**11、MVTec 异常检测数据集**
 
 数据网站：http://www.mvtec.com/company/research/datasets
 
